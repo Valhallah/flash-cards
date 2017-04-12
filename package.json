@@ -1,0 +1,19 @@
+{
+  "name": "flashcard-api",
+  "version": "1.0.0",
+  "description": "create flash cards with which to study",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Valhallah/flash-cards.git"
+  },
+  "author": "Valyn Hall",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Valhallah/flash-cards/issues"
+  },
+  "homepage": "https://github.com/Valhallah/flash-cards#readme"
+}
