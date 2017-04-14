@@ -1,1 +1,1 @@
-{"type":"basic"};
+{"full":"cjhvj","hidden":"jvj","type":"cloze"};{"full":"hdvjsbd","hidden":"jshdvfksb","type":"cloze"};
